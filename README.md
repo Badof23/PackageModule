@@ -9,5 +9,5 @@ Membuat package dan modul berdasarkan tugas praktikum yang sebelumnya dengan str
 ![gambar output](image/inputnilai.PNG)
 - main.py berisi program utama (menu pilihan yang memanggil semua menu yang ada
 ![gambar output](image/main.PNG)
-- HASIL INPUTAN
+- HASIL UAS
 ![gambar output](image/hasilsemua.PNG)
