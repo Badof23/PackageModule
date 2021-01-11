@@ -10,4 +10,4 @@ Membuat package dan modul berdasarkan tugas praktikum yang sebelumnya dengan str
 - main.py berisi program utama (menu pilihan yang memanggil semua menu yang ada
 ![gambar output](image/main.PNG)
 - HASIL INPUTAN
-![gambar output](image/hasilsemua.png)
+![gambar output](image/hasilsemua.PNG)
